@@ -8,15 +8,10 @@
 - Learning Rate : 0.0001
 - Epoch : 25
 - Optimizer : Adam
-- ### [[LINK]](https://github.com/Sejong-VLI-Courses/Convergence-Project-Spring-2023-Team4/tree/baseline)
 
-## proposed improvements
+## resnet50 -> efficientNet_v2_s
 ---
-- backbone : wide resnet101 
-- learning rate : 0.0001
-- learning rate scheduling : milestone=[12,20], gamma=0.2
-- ### [[LINK]](https://github.com/Sejong-VLI-Courses/Convergence-Project-Spring-2023-Team4/blob/wide_resnet101/README.md)
+- epoch : 80 <br>
+failed to improve baseline score <br>
+![s5](https://user-images.githubusercontent.com/89125254/230082479-b0eb697c-0519-4168-861b-93ef5f588188.png)
 
-## performance 
----
-- ### [[Excel]](https://github.com/Sejong-VLI-Courses/Convergence-Project-Spring-2023-Team4/blob/main/wideresnet101_results.xlsx)
